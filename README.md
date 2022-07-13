@@ -4,7 +4,7 @@ This is an Application using the openweather API. This application is programmed
 This application has been realized for my TP3 in my course data feed api.
 
 
-## The Project
+## The Project OpenWeather Application
 
 
 [[Presentation vidéo]](https://youtu.be/Cla7tYeFd3A)

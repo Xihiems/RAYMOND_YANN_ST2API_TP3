@@ -47,5 +47,6 @@ This page will show the date of the predicted day and the value of the min and m
 - I would like to add a map on the application
 - That my api calls are smaller in size
 - Improve the UX
+- Add some information about air quality and implement it in a map too
 
 

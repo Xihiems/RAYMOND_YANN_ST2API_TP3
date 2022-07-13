@@ -21,4 +21,31 @@ The page Weather is like this
 
 <img width="266" alt="Weatherpage" src="https://user-images.githubusercontent.com/75244975/178843683-262232c8-52f0-408c-acf8-6bcdfb67a0b2.png">
 
+as you can see its contains different information about weather.
+
+### Tomorrows Page
+
+This is the page Tomorrows :
+
+
+<img width="266" alt="Tomorrowspage" src="https://user-images.githubusercontent.com/75244975/178843878-bd111a13-c31f-4c1a-b28c-38a039857172.png">
+
+This page calculate the means of all the parameter you can see to have a more precise value for the day.
+
+### Forecast Page
+
+This is the page forecast :
+
+
+
+<img width="266" alt="Forecastpage" src="https://user-images.githubusercontent.com/75244975/178844061-49fc8937-29be-420d-93ae-e9023c6a082c.png">
+
+This page will show the date of the predicted day and the value of the min and max of the day.For the icon in the future we will calculate which icon appears the most in the day. Now the icons is the icons of the middle of the day.
+
+### For the future
+
+- I would like to add a map on the application
+- That my api calls are smaller in size
+- Improve the UX
+
 

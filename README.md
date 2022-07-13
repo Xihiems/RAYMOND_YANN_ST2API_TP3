@@ -18,4 +18,7 @@ city. You can enter you proper coordinates and you can write a city.
 
 The page Weather is like this 
 
-[[Presentation vidéo]](https://youtu.be/Cla7tYeFd3A)
+
+<img width="266" alt="Weatherpage" src="https://user-images.githubusercontent.com/75244975/178843683-262232c8-52f0-408c-acf8-6bcdfb67a0b2.png">
+
+
